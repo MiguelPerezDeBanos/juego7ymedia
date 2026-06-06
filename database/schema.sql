@@ -1,0 +1,14 @@
+CREATE DATABASE IF NOT EXISTS Juego_7YMedio;
+
+USE Juego_7YMedio;
+
+CREATE TABLE IF NOT EXISTS Jugadores (
+    IDJugador INT AUTO_INCREMENT PRIMARY KEY,
+    Apodo VARCHAR(45) NOT NULL UNIQUE,
+    Victorias INT NOT NULL DEFAULT 0
+);
+
+INSERT INTO Jugadores (Apodo, Victorias) VALUES
+('Miguel', 0),
+('Abraham', 0)
+ON DUPLICATE KEY UPDATE Apodo = VALUES(Apodo);

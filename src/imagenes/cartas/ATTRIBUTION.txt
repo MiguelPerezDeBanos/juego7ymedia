@@ -1,0 +1,4 @@
+Spanish playing card artwork by Basquetteur, from Wikimedia Commons, SVG collection by gjenkins20, licensed under CC BY-SA 3.0. Adapted to PNG for this Java project.
+https://creativecommons.org/licenses/by-sa/3.0/
+https://commons.wikimedia.org/wiki/Category:Spanish_playing_cards
+https://github.com/gjenkins20/spanish-playing-cards-svg

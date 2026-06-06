@@ -1,0 +1,6 @@
+bin/
+*.class
+*.log
+*.tmp
+.metadata/
+.settings/

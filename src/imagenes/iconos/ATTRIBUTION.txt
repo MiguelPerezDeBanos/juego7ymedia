@@ -1,0 +1,3 @@
+Bootstrap Icons by The Bootstrap Authors, MIT License. Converted to PNG for this Java project.
+https://icons.getbootstrap.com/
+https://github.com/twbs/icons
