@@ -26,7 +26,7 @@ La aplicacion intenta crear la base y la tabla al iniciar. Tambien se puede ejec
 Configuracion usada:
 
 - Usuario: `root`
-- Password: `Studium2025;`
+- Password: configurada para el entorno de clase en `DatabaseConfig`
 
 ## Funciones principales
 
